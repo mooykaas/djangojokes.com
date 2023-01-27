@@ -4,7 +4,6 @@ class HomePageView(TemplateView):
  template_name = 'pages/home.html'
 
 
- class AboutUsView(TemplateView):
+class AboutUsView(TemplateView):
   template_name ='pages/about_us.html'
 
-# Create your views here.
